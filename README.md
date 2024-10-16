@@ -1,5 +1,5 @@
 # CGMD-SpringNetSimulator
-Bacterial cell wall\
+The structure of the cell wall can be simplified as a two-dimensional spring network. However, each connection point has 3 connection force calculations. Furthermore, a cell wall has hundreds of thousands of connection points to calculate the balancing force. In this project, the vectorization method is introduced to speed up the computational efficiency.\
 \
 **[Step-by-step build]**
 - [Using vectorization and GPU-computing to speed up simulation efficiency](https://www.evernote.com/shard/s684/sh/e64c16dd-3885-4f57-abc7-11ce2e81ecc7/8b18f685cd0cda006db347455ce6fcaf)
